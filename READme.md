@@ -16,9 +16,9 @@
 - 📊 SQL
 
 ## Contributions
-- [Open-source project 1](https://github.com/zbahati/Portfolio)
-- [Open-source project 2](https://github.com/Simpleshaikh1/Awesome-Books)
-- [Open-source project 2](https://github.com/zbahati/Todo-list)
+- [Portfolio Project](https://github.com/zbahati/Portfolio)
+- [Awesome-Book Project](https://github.com/Simpleshaikh1/Awesome-Books)
+- [Professional Todo list ](https://github.com/zbahati/Todo-list)
 - [Read more](https://github.com/zbahati/)
 
 ## Contact Me

@@ -8,6 +8,9 @@
 
 ## Skills
 - 💻 JavaScript
+- Ruby
+- Ruby on rails
+- Postgresql
 - 🐍 Python
 - ⚛️ React
 - 🎯 Django

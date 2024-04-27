@@ -12,6 +12,9 @@
 - Ruby on rails
 - Postgresql
 - 🐍 Python
+- PHP
+- Laravel
+- Nodejs
 - ⚛️ React
 - 🎯 Django
 - 🌐 HTML/CSS

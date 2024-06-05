@@ -20,8 +20,7 @@
   ### FRONTEND LANGUAGES AND FRAMEWORKS
   - 💻 JavaScript
   - ⚛️ React
-  -  🎯 Django
-  -   HTML/CSS
+  - HTML/CSS
   - Tailwindcss
   - Scss
   - material Ui

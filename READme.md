@@ -7,19 +7,30 @@
 - 🌱 Eager to learn new technologies and collaborate with others.
 
 ## Skills
-- 💻 JavaScript
+### BACKEND PROGRAMMING LANGUAGES
 - Ruby
-- Ruby on rails
-- Postgresql
-- 🐍 Python
 - PHP
-- Laravel
-- Nodejs
-- ⚛️ React
-- 🎯 Django
-- 🌐 HTML/CSS
-- 🗃️ Git
-- 📊 SQL
+- PYHON
+- NODEJS
+  ### BACKEND FRAMEWORKS
+  - Ruby on Rails
+  - Django
+  - Nestjs
+  - Laravel
+  ### FRONTEND LANGUAGES AND FRAMEWORKS
+  - 💻 JavaScript
+  - ⚛️ React
+  -  🎯 Django
+  -   HTML/CSS
+  - Tailwindcss
+  - Scss
+  - material Ui
+  - Shadcn Ui library
+  ### DATABASES
+  - Postgresql
+  - Mysql
+  - Mongodb
+
 
 ## Contributions
 - [Portfolio Project](https://github.com/zbahati/Portfolio)

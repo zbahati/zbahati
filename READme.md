@@ -12,14 +12,12 @@
 - PHP
 - PYHON
 - NODEJS
-- NESTJS
-- EXPO
-- REACT-NATIVE
   ### BACKEND FRAMEWORKS
   - Ruby on Rails
   - Django
   - Nestjs
-  - NEXTJS
+  - Expo
+  - React-native
   - Laravel
   ### FRONTEND LANGUAGES AND FRAMEWORKS
   - 💻 JavaScript

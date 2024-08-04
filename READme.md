@@ -2,7 +2,7 @@
 # Hello, I'm [Bahati Zirimwabagabo] 👋
 
 ## About Me
-- 🚀 Full-Stack Developer passionate about building scalable web applications.
+- 🚀 Full-Stack Developer passionate about building scalable web applications and mobile apps.
 - 💡 Proficient in JavaScript, Python, and various frameworks like React, Django, Tailwind, and Bootstrap.
 - 🌱 Eager to learn new technologies and collaborate with others.
 
@@ -12,15 +12,20 @@
 - PHP
 - PYHON
 - NODEJS
+- NESTJS
+- EXPO
+- REACT-NATIVE
   ### BACKEND FRAMEWORKS
   - Ruby on Rails
   - Django
   - Nestjs
+  - NEXTJS
   - Laravel
   ### FRONTEND LANGUAGES AND FRAMEWORKS
   - 💻 JavaScript
   - ⚛️ React
   - HTML/CSS
+  - Nextjs
   - Tailwindcss
   - Scss
   - material Ui
@@ -29,6 +34,7 @@
   - Postgresql
   - Mysql
   - Mongodb
+  - Appwrite
 
 
 ## Contributions
